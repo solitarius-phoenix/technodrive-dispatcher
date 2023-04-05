@@ -1,0 +1,11 @@
+{
+    "name": "technodrive/dispatcher",
+    "description": "a dispatcher for technodrive framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "solitarius phoenix"
+        }
+    ],
+    "require": {}
+}
